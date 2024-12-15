@@ -1,5 +1,6 @@
 # Machine_Learning_UL_SL_Zomato
 The objective of this project is to conduct EDA , Clustering and Sentiment Analysis on two datasets related to Zomato, a popular restaurant discovery and food delivery platform. The analysis aims to gain insights into restaurant clustering and user sentiment towards different restaurants listed on Zomato.
+
 This project centers around Zomato, a prominent online food delivery platform. It involves two key datasets: one for restaurant information and the other for user reviews.
 
 The initial phase of this project involved rigorous data cleaning and preprocessing to ensure the data's suitability for comprehensive analysis. Subsequently, we conducted Exploratory Data Analysis (EDA) on both datasets, providing insights into the dataset's composition and features.
